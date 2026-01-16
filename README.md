@@ -1,3 +1,10 @@
+> [!WARNING]  
+> Este é o meu portfólio antigo. Caso queira ver a versão atualizada, acesse meu portfólio principal em [marcuscoelho.com](https://marcuscoelho.com).
+> Apesar de estar desatualizado, este portfólio continuará disponível. Tenha em mente que algumas informações podem não refletir meu estado atual. 
+> Você pode acessá-lo aqui: [old.marcuscoelho.com](https://old.marcuscoelho.com).
+
+# Old Portfolio - Marcus Coelho
+
 ### Português
 # Sobre
 Este é meu projeto minimalista de portfólio feito em React.
@@ -21,4 +28,3 @@ Here's my minimalist portfolio project built with React.
 
 ## Bug report or Feature request
 If you encounter a bug or have a feature request [send me an email](mailto:marcusrangelcoelho@gmail.com).
-
