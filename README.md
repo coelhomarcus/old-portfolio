@@ -1,6 +1,8 @@
 > [!WARNING]  
 > Este é o meu portfólio antigo. Caso queira ver a versão atualizada, acesse meu portfólio principal em [marcuscoelho.com](https://marcuscoelho.com).
+
 > Apesar de estar desatualizado, este portfólio continuará disponível. Tenha em mente que algumas informações podem não refletir meu estado atual. 
+
 > Você pode acessá-lo aqui: [old.marcuscoelho.com](https://old.marcuscoelho.com).
 
 # Old Portfolio - Marcus Coelho

@@ -9,6 +9,14 @@ const Home = () => {
     <div className="main">
       <Head title="Início" />
       <Text h1="Início" />
+      <div className="warning">
+        Este é o meu portfólio antigo. Caso queira ver a versão atualizada,
+        acesse meu portfólio principal em{" "}
+        <a href="https://marcuscoelho.com" target="_blank">
+          marcuscoelho.com
+        </a>
+        .
+      </div>
       <Text
         h2="Sobre mim"
         pArray={[
