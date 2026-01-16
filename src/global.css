@@ -316,6 +316,7 @@ body {
         display: inline;
         align-items: inherit;
         height: inherit;
+        transition: none;
     }
     a:hover {
         color: oklch(42.4% 0.199 265.638);

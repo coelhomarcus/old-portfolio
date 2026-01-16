@@ -1,4 +1,3 @@
-import React from "react";
 import Text from "../Components/Text/Text";
 import Head from "../Head/Head";
 import Card from "../Components/Card/Card";
@@ -9,12 +8,6 @@ const arrProj = [
     link: "https://www.youtube.com/shorts/0fSoHjAadas",
     title: "SOS Queimadas",
     desc: "App IOS para conscientização e prevenção de queimadas",
-  },
-  {
-    img: "./img/Projects/canaa.webp",
-    link: "https://smartcitycanaadoscarajas.com.br/index.php/conectacanaa",
-    title: "Conecta Canaã",
-    desc: "Site para serviços públicos e ocorrências em Canaã - PA",
   },
 ];
 
@@ -52,6 +45,14 @@ const Projects = () => {
     <div className="main">
       <Head title="Projetos" />
       <Text h1="Projetos" />
+      <div className="warning">
+        Este é o meu portfólio antigo. Caso queira ver a versão atualizada e com
+        meus projetos mais recentes, acesse meu portfólio principal em{" "}
+        <a href="https://marcuscoelho.com" target="_blank">
+          marcuscoelho.com
+        </a>
+        .
+      </div>
       <div className="options">
         <Text h2="Projetos Principais" />
         <div className="gridColumn">

@@ -1,5 +1,4 @@
-import React from "react";
-import { FaLinkedin, FaGithub, FaInstagram } from "react-icons/fa6";
+import { FaLinkedin, FaGithub } from "react-icons/fa6";
 import { MdEmail } from "react-icons/md";
 
 import Head from "../Head/Head";
@@ -32,12 +31,6 @@ const Contact = () => {
         </Button>
         <Button href="https://github.com/coelhomarcus" title="GitHub">
           <FaGithub />
-        </Button>
-        <Button
-          href="https://www.instagram.com/marcusrange1/"
-          title="Instagram"
-        >
-          <FaInstagram />
         </Button>
       </div>
     </div>
